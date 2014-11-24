@@ -25,10 +25,10 @@ app.set('port', process.env.PORT || 8080);
  * Definition of constants
  */
 
-//const
-//ws_uri = "ws://localhost:8888/kurento";
 const
-ws_uri = "ws://sibapps-dev.ru:8888/kurento";
+ws_uri = "ws://localhost:8888/kurento";
+//const
+//ws_uri = "ws://sibapps-dev.ru:8888/kurento";
 
 
 /*
